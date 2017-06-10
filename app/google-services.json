@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "791447662540",
+    "firebase_url": "https://jobexperience-5ff5b.firebaseio.com",
+    "project_id": "jobexperience-5ff5b",
+    "storage_bucket": "jobexperience-5ff5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791447662540:android:c0dbb1422fa53942",
+        "android_client_info": {
+          "package_name": "micheal.egypt.android.jobexperience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791447662540-p4c7hfdc67fqnmkochpammlum5p8cnut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_Ev2iKMXfttLSj0dQ76HIfZ8k5phvJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
